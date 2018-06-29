@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+//chaged this code line
+int i;
+int c;
+int h;
 
 int n;
 int k;
